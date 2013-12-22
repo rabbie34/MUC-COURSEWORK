@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <item
+        android:id="@+id/action_hybrid"
+        android:icon="@drawable/hybrid"
+        android:title="@string/action_hybrid"
+        android:showAsAction="ifRoom"/>
+    
+    <item android:id="@+id/action_normal"
+          android:icon="@drawable/normal"
+          android:title="@string/action_normal"
+          android:showAsAction="ifRoom" />
+    
+    <item android:id="@+id/action_location"
+          android:icon="@drawable/location"
+          android:title="@string/action_location"
+          android:showAsAction="ifRoom" />
+    
+    <item android:id="@+id/action_previous"
+          android:icon="@drawable/previous"
+          android:title="@string/action_location"
+          android:showAsAction="ifRoom" />
+    
+    
+    
+    
+
+</menu>

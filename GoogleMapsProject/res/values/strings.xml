@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoogleMapsProject</string>
+    <string name="action_hybrid">Hybrid map</string>
+    <string name="action_normal">Normal map</string>
+    <string name="action_previous">Previous Cities</string>
+    <string name="action_location">Enter your location</string>
+
+
+</resources>

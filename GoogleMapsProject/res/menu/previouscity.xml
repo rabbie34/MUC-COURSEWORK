@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/action_glasgow"
+         
+          android:title="Glasgow"
+           />
+    
+    <item android:id="@+id/action_delhi"
+          
+          android:title="Delhi"
+          />
+    
+    <item android:id="@+id/action_melbourne"
+
+          android:title="Melbourne"
+           />
+    
+    <item android:id="@+id/action_manchester"
+
+          android:title="Manchester"
+           />
+    
+    <item android:id="@+id/action_kualalumpur"
+
+          android:title="Kuala Lumper"
+           />
+    
+    <item android:id="@+id/action_victoria"
+
+          android:title="Victoria"
+          android:showAsAction="never" />
+    
+    <item android:id="@+id/action_auckland"
+
+          android:title="Auckland"
+          android:showAsAction="never" />
+    
+    <item android:id="@+id/action_edinburgh"
+
+          android:title="Edinburgh"
+          android:showAsAction="never" />
+    
+    <item android:id="@+id/action_brisbane"
+
+          android:title="Brisbane"
+          android:showAsAction="never" />
+    
+    <item android:id="@+id/action_edmonton"
+
+          android:title="Edmonton"
+          android:showAsAction="never" />
+    
+    <item android:id="@+id/action_christchurch"
+
+          android:title="Christchurch"
+          android:showAsAction="never" />
+
+</menu>
